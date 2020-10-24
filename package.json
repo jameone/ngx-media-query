@@ -1,0 +1,36 @@
+{
+  "name": "@scriptloom/ngx-media-query",
+  "version": "0.0.1",
+  "description": "A convenient media query service for building responsive Angular components.",
+  "peerDependencies": {
+    "@angular/core": "^10.2.0",
+    "@angular/common": "^10.2.0",
+    "@ngrx/effects": "^10.0.1",
+    "@ngrx/entity": "^10.0.1",
+    "@ngrx/store": "^10.0.1",
+    "rxjs": "^6.6.3",
+    "zone.js": "^0.10.3"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "jasmine-marbles": "^0.6.0"
+  },
+  "author": "James W. Spears",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptloom/ngx-media-query.git"
+  },
+  "keywords": [
+    "Responsive",
+    "Styling",
+    "Angular",
+    "MediaQueryList"
+  ],
+  "bugs": {
+    "url": "https://github.com/scriptloom/ngx-media-query/issues"
+  },
+  "homepage": "https://github.com/scriptloom/ngx-media-query#readme"
+}
